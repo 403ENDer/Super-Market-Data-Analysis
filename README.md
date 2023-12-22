@@ -4,11 +4,14 @@ This repository contains the code and documentation for my supermarket data anal
 # Project Overview
 In this project, I performed a comprehensive analysis of the supermarket data using Jupyter Notebook. The main techniques utilized include:
 
-## Clustering: I applied clustering techniques to segment customers based on their purchasing behavior. This allowed for targeted marketing campaigns and personalized recommendations.
+## Clustering: 
+   I applied clustering techniques to segment customers based on their purchasing behavior. This allowed for targeted marketing campaigns and personalized recommendations.
 
-## Classification: I implemented classification algorithms to predict customer churn, enabling the development of proactive retention strategies and improving customer loyalty.
+## Classification:
+   I implemented classification algorithms to predict customer churn, enabling the development of proactive retention strategies and improving customer loyalty.
 
-## Time Series Analysis (ARIMA): I employed Time Series ARIMA models to forecast sales and identify seasonal trends. This provided insights for optimizing inventory management and resource allocation.
+## Time Series Analysis (ARIMA): 
+   I employed Time Series ARIMA models to forecast sales and identify seasonal trends. This provided insights for optimizing inventory management and resource allocation.
 
 # Repository Structure
 data: This folder contains the dataset used for the analysis.
